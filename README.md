@@ -14,4 +14,8 @@ Then copy over the `icns` file to the corresponding project.
 
 ## License
 
-We own this thingamajig, you may take a look around but not use it.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">
+  <img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" />
+</a>
+
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CloudApp for Mac icon</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://getcloudapp.com" property="cc:attributionName" rel="cc:attributionURL">Linebreak S.L</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
