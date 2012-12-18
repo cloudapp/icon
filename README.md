@@ -1,9 +1,9 @@
-# CloudApp for Mac's Icon
+# CloudApp for Mac's Beta Icon
 
 ![icon-preview](https://github.com/cloudapp/icon/raw/master/icon.iconset/icon_128x128.png)
 
-The assets for CloudApp's Mac icon live here. To generate updated assets from
-`source` make sure you hace [Xcode](https://developer.apple.com/xcode/)
+The assets for CloudApp's Mac beta icon live here. To generate updated assets
+from `source` make sure you hace [Xcode](https://developer.apple.com/xcode/)
 installed and then run:
 
 ```bash
